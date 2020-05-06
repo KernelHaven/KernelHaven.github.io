@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: KernelHaven
 description: KernelHaven project web site.
+show_downloads: false
