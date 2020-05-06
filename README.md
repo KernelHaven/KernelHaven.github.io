@@ -4,15 +4,13 @@
 
 KernelHaven offers a generic infrastructure for performing different analyses on product lines. This repository contains the main infrastructure, plugins are located in separate repositories.
 
-## Downloads
-
-### Core Infrastructure
+### Download Core Infrastructure
 
 This archive contains the core infrastructure only. Additional [plugins](#plugins) are needed for a useful execution.
 
 * [KernelHaven infrastructure](https://jenkins-2.sse.uni-hildesheim.de/job/KH_KernelHaven/lastSuccessfulBuild/artifact/build/jar/KernelHaven.jar)
 
-### Bundled Releases
+### Download Bundled Releases
 
 These archives contain the infrastructure as well as all public [plugins](#plugins). These bundles contain more than needed to run most experiments.
 
