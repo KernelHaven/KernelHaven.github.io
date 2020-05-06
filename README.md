@@ -63,7 +63,7 @@ The following tables lists commonly used plugins for KernelHaven. They mostly fo
 
 The following image visualizes the dependencies between the plugins (open image in a new browser tab to make plugin links clickable):
 
-![Plugin Dependencies](misc/plugin_dependencies.svg "Plugin Dependencies")
+<img src="https://raw.githubusercontent.com/KernelHaven/KernelHaven/master/misc/plugin_dependencies.svg" alt="Plugin Dependencies">
 
 ## Setup
 
