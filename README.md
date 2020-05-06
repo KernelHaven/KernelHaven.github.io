@@ -63,7 +63,7 @@ The following image visualizes the dependencies between the plugins (open image 
 
 <!-- Use https://raw.githack.com/ to fix correct mime type -->
 <!-- Use object tag to get control over mime type: https://stackoverflow.com/a/29977737 -->
-<object data="https://raw.githubusercontent.com/KernelHaven/KernelHaven/master/misc/plugin_dependencies.svg" type="image/svg+xml" class="mailicon" width="100%"/>  </object
+<object data="https://rawcdn.githack.com/KernelHaven/KernelHaven/0c04c63951042f5139d8d67e449c4ffd3834914f/misc/plugin_dependencies.svg" type="image/svg+xml" class="mailicon" width="100%"/>  </object
 <!--img src="https://rawcdn.githack.com/KernelHaven/KernelHaven/0c04c63951042f5139d8d67e449c4ffd3834914f/misc/plugin_dependencies.svg" alt="Plugin Dependencies"-->
 
 ## Setup
