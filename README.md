@@ -135,14 +135,6 @@ See [`config_template.properties`](config_template.properties) for a full list o
 
 Further documentation can be found in the [wiki on GitHub](https://github.com/KernelHaven/KernelHaven/wiki). A pdf version can be downloaded from [here](https://jenkins-2.sse.uni-hildesheim.de/job/KH_Documentation/lastSuccessfulBuild/artifact/Manual.pdf).
 
-## Video Tutorials
-
-#### Introduction and Experiments
-[![KernelHaven - Introduction and Experiments](https://img.youtube.com/vi/xKde6tPY_jA/0.jpg "KernelHaven - Introduction and Experiments")](https://youtu.be/xKde6tPY_jA)
-
-#### ICSE 2018 Demonstration
-[![KernelHaven - ICSE 2018 Demonstration Video](https://img.youtube.com/vi/IbNc-H1NoZU/0.jpg "KernelHaven - ICSE 2018 Demonstration Video")](https://www.youtube.com/watch?v=IbNc-H1NoZU)
-
 ## License
 
 The main infrastructure (this project) is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html). Plugins may have different licenses.

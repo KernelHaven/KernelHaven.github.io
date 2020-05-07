@@ -4,3 +4,6 @@ description: KernelHaven project web site.
 show_downloads: true
 gpl_url: https://jenkins-2.sse.uni-hildesheim.de/job/KH_Releases/lastSuccessfulBuild/artifact/build/KernelHaven_GPLv3.zip
 apache_url: https://jenkins-2.sse.uni-hildesheim.de/job/KH_Releases/lastSuccessfulBuild/artifact/build/KernelHaven_Apache-2.0.zip
+organization_url: https://github.com/KernelHaven/
+header_pages:
+  - Video Tutorials.md

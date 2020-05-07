@@ -16,7 +16,7 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+            <a id="forkme_banner" href="{{ site.organization_url }}">View on GitHub</a>
           {% endif %}
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
@@ -28,6 +28,18 @@
               <a class="apache_download_link" href="{{ site.apache_url }}">Download Apache bundle (recommended)</a>
             </section>
           {% endif %}
+		  
+		  {% if site.header_pages %}
+		    <nav class="site-nav">
+			  <div class="trigger">
+			    {% for page in site.header_pages %}
+			    {% assign title = page | split: "." | first %}
+				  <a class="page-link" href="{{title}}.html">{{title}}</a>
+			   {% endfor %}
+			  </div>
+			</nav>
+		  {% endif %}
+		  
         </header>
     </div>
 

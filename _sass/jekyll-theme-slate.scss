@@ -378,6 +378,60 @@ Full-Width Styles
   background: url(../images/sprite_download2.png) no-repeat top left;
 }
 
+.site-nav {
+  position: absolute;
+  border-radius: 5px;
+  text-align: right;
+
+  .nav-trigger {
+    display: none;
+  }
+
+  label[for="header-wrap"] {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 36px;
+    z-index: 2;
+    cursor: pointer;
+  }
+  
+  a:link {
+	color: #FFF;
+	background: #5E5E62;
+	padding: 5px 5px 5px 5px;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+  }
+  a:visited {
+    color: #FFF;
+	background: #5E5E62;
+	padding: 5px 5px 5px 5px;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;}
+  a:hover {
+    color: #FFF;
+    background: #0090FF;
+	padding: 5px 5px 5px 5px;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;}
+  a:active { 
+    color: #FFF;
+	background: #0090FF;
+	padding: 5px 5px 5px 5px;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;}
+}
+
+
 #main_content_wrap {
   background: #f2f2f2;
   border-top: 1px solid #111;
