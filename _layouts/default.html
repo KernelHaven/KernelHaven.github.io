@@ -25,8 +25,8 @@
 
           {% if site.show_downloads %}
             <section id="downloads">
-              <a class="gpl_download_link" href="{{ site.gpl_url }}">Download GPL bundle </a>
-              <a class="apache_download_link" href="{{ site.apache_url }}">Download Apache bundle (recommended)</a>
+              <a class="gpl_download_link" href="{{ site.gpl_url }}">Download GPL bundle (recommended) </a>
+              <a class="apache_download_link" href="{{ site.apache_url }}">Download Apache bundle)</a>
             </section>
           {% endif %}
 		  
@@ -55,7 +55,7 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p class="copyright">This <a href="https://github.com/KernelHaven">organization</a> is maintained by the <a href="https://sse.uni-hildesheim.de/">Software Systems Engineering group (SSE)</a> at the <a href="https://www.uni-hildesheim.de/">University of Hildesheim</a>.</p>
+        <p class="copyright">This <a href="{{ site.organization_url }}">organization</a> is maintained by the <a href="{{ site.department_url }}">Software Systems Engineering group (SSE)</a> at the <a href="{{ site.company_url }}">University of Hildesheim</a>.</p>
       </footer>
     </div>
 
