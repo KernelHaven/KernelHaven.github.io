@@ -300,6 +300,8 @@ Full-Width Styles
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
+  position: absolute;
+  top: 0px;
 }
 
 #project_tagline {
@@ -474,8 +476,6 @@ Small Device Styles
 
   #project_title {
   font-size: 32px;
-	position: absolute;
-	top: 0px;
   }
 
   h1 {
