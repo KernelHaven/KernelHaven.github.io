@@ -32,6 +32,7 @@
 		  {% if site.header_pages %}
 		    <nav class="site-nav">
 			  <div class="trigger">
+			    <a class="page-link" href="index.html">Start</a>
 			    {% for page in site.header_pages %}
 			    {% assign title = page | split: "." | first %}
 				  <a class="page-link" href="{{title}}.html">{{title}}</a>
