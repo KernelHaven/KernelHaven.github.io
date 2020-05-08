@@ -59,7 +59,7 @@ The following tables lists commonly used plugins for KernelHaven. They mostly fo
 
 ### Dependencies
 
-The following image visualizes the dependencies between the plugins (open image in a new browser tab to make plugin links clickable):
+The following image visualizes the dependencies between the plugins:
 
 <!-- Use https://raw.githack.com/ to fix correct mime type -->
 <!-- Use object tag to get control over mime type: https://stackoverflow.com/a/29977737 -->
