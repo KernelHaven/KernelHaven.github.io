@@ -8,7 +8,7 @@
 		</tr>
 		
 		<tr>
-			<th colspan="3" style="text-align:center;background:#666666">Conferenz Papers</th>
+			<th colspan="3" style="text-align:center;background:#666666">Conference Papers</th>
 		</tr>
 		<tr>
 			<td>Sascha El-Sharkawy, Adam Krafczyk und Klaus Schmid (2020): Fast Static Analyses of Software Product Lines – An Example with More than 42,000 Metrics. In: Proceedings of the 14th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS '20) pp. 1-9. ACM. Article 8</td>
