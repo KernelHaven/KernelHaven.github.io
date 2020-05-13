@@ -57,7 +57,8 @@
 			<td>Klaus Schmid, Sascha El-Sharkawy und Christian Kröher (2019): Improving Software Engineering Research Through Experimentation Workbenches. Chapter: 6. In: Maurice H. ter Beek, Alessandro Fantechi und Laura Semini (Editor): From Software Engineering to Formal Methods and Tools, and Back Lecture Notes in Computer Science. Vol. 11865. pp. 67-82. Springer.</td>
 			<td>
 				<a href="https://link.springer.com/chapter/10.1007/978-3-030-30985-5_6">
-					<img border="0" alt="Publisher Site" src="https://publicdomainvectors.org/photos/Book_thick_generic.png" height="30">
+				    <!-- Image used from: https://publicdomainvectors.org/en/free-clipart/Black-book-with-many-pages/35666.html -->
+					<img border="0" alt="Publisher Site" src="assets/images/Book_Logo.png" height="30">
 				</a>
 		    </td>
 		    <td></td>
@@ -78,6 +79,8 @@
 					<img border="0" alt="Download BibTeX" src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1d/20091129153238%21P_literature.svg" height="30">
 				</a>
 			</td>
+		</tr>
+		<tr>
 			<td>Christian Kröher, Sascha El-Sharkawy und Klaus Schmid (2018): KernelHaven - An Open Infrastructure for Product Line Analysis. In: Proceedings of the 22nd International Systems and Software Product Line Conference (SPLC'18). Vol. B. pp. 5-10. ACM.</td>
 			<td>
 				<a href="https://lsf.uni-hildesheim.de/qisserver/rds?state=medialoader&objectid=8280&application=lsf">
@@ -89,10 +92,13 @@
 					<img border="0" alt="Download BibTeX" src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1d/20091129153238%21P_literature.svg" height="30">
 				</a>
 			</td>
+		</tr>
+		<tr>
 			<td>Christian Kröher, Sascha El-Sharkawy und Klaus Schmid (2018): KernelHaven - An Experimentation Workbench for Analyzing Software Product Lines. In: Proceedings of the 40th International Conference on Software Engineering (ICSE'18): Companion Proceedings. pp. 73-76. ACM. Video: https://youtu.be/IbNc-H1NoZU</td>
 			<td>
 				<a href="https://ieeexplore.ieee.org/document/8449448">
-					<img border="0" alt="Publisher Site" src="https://publicdomainvectors.org/photos/Book_thick_generic.png" height="30">
+				    <!-- Image used from: https://publicdomainvectors.org/en/free-clipart/Black-book-with-many-pages/35666.html -->
+					<img border="0" alt="Publisher Site" src="assets/images/Book_Logo.png" height="30">
 				</a>
 			</td>
 			<td>
