@@ -58,10 +58,27 @@
 			<td>
 				<a href="https://link.springer.com/chapter/10.1007/978-3-030-30985-5_6">
 				    <!-- Image used from: https://publicdomainvectors.org/en/free-clipart/Black-book-with-many-pages/35666.html -->
-					<img border="0" alt="Publisher Site" src="assets/images/Book_Logo.png" height="30">
+					<img border="0" alt="Publisher Site" src="assets/images/Book_Logo.svg" height="30">
 				</a>
 		    </td>
 		    <td></td>
+		</tr>
+		
+		<tr>
+			<th colspan="3" style="text-align:center;background:#666666">Workshop Papers</th>
+		</tr>
+		<tr>
+			<td>Adam Krafczyk, Sascha El-Sharkawy und Klaus Schmid (2018): Reverse Engineering Code Dependencies: Converting Integer-Based Variability to Propositional Logic. In: Proceedings of the 22nd International Systems and Software Product Line Conference (SPLC'18). Vol. B. pp. 34-41. ACM.</td>
+			<td>
+				<a href="https://lsf.uni-hildesheim.de/qisserver/rds?state=medialoader&objectid=8278&application=lsf">
+					<img border="0" alt="Download PDF" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" height="30">
+				</a>
+			</td>
+			<td>
+				<a href="https://sse.uni-hildesheim.de/en/research/publications/publikation-einzelansicht/?lsfid=39656#-ui-id-1">
+					<img border="0" alt="Download BibTeX" src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1d/20091129153238%21P_literature.svg" height="30">
+				</a>
+			</td>
 		</tr>
 		
 		<tr>
@@ -98,7 +115,7 @@
 			<td>
 				<a href="https://ieeexplore.ieee.org/document/8449448">
 				    <!-- Image used from: https://publicdomainvectors.org/en/free-clipart/Black-book-with-many-pages/35666.html -->
-					<img border="0" alt="Publisher Site" src="assets/images/Book_Logo.png" height="30">
+					<img border="0" alt="Publisher Site" src="assets/images/Book_Logo.svg" height="30">
 				</a>
 			</td>
 			<td>
